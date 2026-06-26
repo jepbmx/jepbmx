@@ -42,7 +42,7 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
 <div align="center">
 
-![Repositorios](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=9d2449&labelColor=0d1321&label=Repositorios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjepbmx)
+![Repositorios](https://img.shields.io/badge/Repositorios-3-9d2449?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1321)
 
 </div>
 
@@ -50,22 +50,6 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
 <img src="https://github-readme-stats.vercel.app/api?username=jepbmx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1321&title_color=9d2449&icon_color=7c9cc4&text_color=c9d6df" alt="Estadísticas de GitHub" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbmx&layout=compact&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df" alt="Lenguajes más usados" width="40%" />
-
-</div>
-
-<div align="center">
-
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=jepbmx&hide_border=true&background=0D1321&ring=9D2449&fire=9D2449&currStreakLabel=7C9CC4&sideLabels=C9D6DF&dates=748CAB)
-
-</div>
-
-<br>
-
-## 🐍 Mi actividad
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jepbmx/jepbmx/output/snake.svg" alt="snake animation" />
 
 </div>
 
