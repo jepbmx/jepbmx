@@ -6,6 +6,8 @@
 
 Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
+🌱 **Actualmente aprendiendo:** Ciberseguridad &nbsp;|&nbsp; 💻 **Reforzando:** Python · JavaScript · React
+
 </div>
 
 <br>
@@ -25,16 +27,35 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
 <br>
 
+## 🚀 Proyectos destacados
+
+<div align="center">
+
+<a href="https://github.com/jepbmx/DentalBook">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jepbmx&repo=DentalBook&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df&icon_color=7c9cc4" alt="DentalBook" width="45%" />
+</a>
+<a href="https://github.com/jepbmx/Proyecto-de-Desarrollo-de-Soluci-n-Bancaria-con-IA-para-servicios-de-terceros-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jepbmx&repo=Proyecto-de-Desarrollo-de-Soluci-n-Bancaria-con-IA-para-servicios-de-terceros-&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df&icon_color=7c9cc4" alt="Plataforma Bancaria" width="45%" />
+</a>
+
+</div>
+
+**DentalBook** — Sistema web de gestión de citas en un consultorio dental.
+
+**Plataforma Bancaria con IA** — Plataforma web financiera simulada inspirada en Open Banking, enfocada en la detección de anomalías transaccionales. *(repo actualmente privado — cámbialo a público desde Settings para que se vea aquí)*
+
+<br>
+
 ## 🎓 Certificaciones
 
-| Certificación | Emisor | Fecha |
-|---|---|---|
-| AI Skills Fest 2026 | Microsoft | Junio 2026 |
-| JavaScript Essentials 1 | Cisco Networking Academy | Junio 2026 |
-| Python Essentials 1 | Cisco Networking Academy | Junio 2026 |
-| Python Essentials 2 | Cisco Networking Academy | Junio 2026 |
+<div align="center">
 
-🔄 **Actualmente en curso:** Certificación en Ciberseguridad
+![AI Skills Fest 2026](https://img.shields.io/badge/AI%20Skills%20Fest%202026-Microsoft-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
+![JavaScript Essentials 1](https://img.shields.io/badge/JavaScript%20Essentials%201-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Python Essentials 1](https://img.shields.io/badge/Python%20Essentials%201-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Python Essentials 2](https://img.shields.io/badge/Python%20Essentials%202-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+</div>
 
 <br>
 
