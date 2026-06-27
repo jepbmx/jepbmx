@@ -35,11 +35,10 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jepbmx&repo=DentalBook&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df&icon_color=7c9cc4" alt="DentalBook" width="45%" />
 </a>
 <a href="https://github.com/jepbmx/Simulated-financial-web-system-inspired-by-Open-Banking-for-detecting-transactional-anomalies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jepbmx&repo=Simulated financial web system inspired by Open Banking for detecting transactional anomalies&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df&icon_color=7c9cc4" alt="Plataforma Bancaria" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jepbmx&repo=Simulated-financial-web-system-inspired-by-Open-Banking-for-detecting-transactional-anomalies&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df&icon_color=7c9cc4" alt="Plataforma Bancaria" width="45%" />
 </a>
 
 </div>
-
 
 <br>
 
@@ -60,7 +59,7 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
 <div align="center">
 
-![Repositorios](https://img.shields.io/badge/Repositorios-3-9d2449?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1321)
+![Repositorios](https://img.shields.io/badge/Repositorios-4-9d2449?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1321)
 
 </div>
 
