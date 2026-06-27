@@ -65,8 +65,8 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jepbmx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1321&title_color=9d2449&icon_color=7c9cc4&text_color=c9d6df" alt="Estadísticas de GitHub" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbmx&layout=compact&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df" alt="Lenguajes más usados" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jepbmx&show_icons=true&hide_border=true&hide_rank=true&hide=prs,issues,contribs&include_all_commits=true&count_private=true&card_width=320&custom_title=GitHub%20Stats&bg_color=0d1321&title_color=9d2449&icon_color=7c9cc4&text_color=c9d6df" alt="Estadísticas de GitHub" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbmx&layout=compact&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df" alt="Lenguajes más usados" />
 
 </div>
 
