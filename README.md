@@ -25,7 +25,6 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
 </div>
 
-<br>
 
 ## 🚀 Proyectos destacados
 
@@ -53,7 +52,7 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
 </div>
 
-<br>
+
 
 ## 📊 Estadísticas
 
@@ -65,8 +64,16 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jepbmx&show_icons=true&hide_border=true&hide_rank=true&hide=prs,issues,contribs&include_all_commits=true&count_private=true&card_width=320&custom_title=GitHub%20Stats&bg_color=0d1321&title_color=9d2449&icon_color=7c9cc4&text_color=c9d6df" alt="Estadísticas de GitHub" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbmx&layout=compact&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df" alt="Lenguajes más usados" />
+<a href="https://github.com/jepbmx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jepbmx&show_icons=true&hide_border=true&hide_rank=true&hide=prs&include_all_commits=true&card_width=320&custom_title=GitHub%20Stats&bg_color=0d1321&title_color=9d2449&icon_color=7c9cc4&text_color=c9d6df" alt="Estadísticas de GitHub" />
+</a>
+<a href="https://github.com/jepbmx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbmx&layout=compact&hide_border=true&bg_color=0d1321&title_color=9d2449&text_color=c9d6df" alt="Lenguajes más usados" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jepbmx&hide_border=true&background=0D1321&ring=9D2449&fire=9D2449&currStreakNum=C9D6DF&sideNums=C9D6DF&currStreakLabel=7C9CC4&sideLabels=C9D6DF&dates=748CAB" alt="Racha de contribuciones" />
 
 </div>
 
