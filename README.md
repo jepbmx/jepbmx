@@ -58,7 +58,7 @@ Interesado en desarrollo web, análisis de datos y ciberseguridad.
 
 <div align="center">
 
-![Repositorios](https://img.shields.io/badge/Repositorios-4-9d2449?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1321)
+![Repositorios](https://img.shields.io/badge/Repositorios-5-9d2449?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1321)
 
 </div>
 
